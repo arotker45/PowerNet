@@ -7,7 +7,9 @@ initialization, and can also experience random spikes in energy need as well.
 """
 
 class PowerLoad():
-    def __init__(self, base_function, spike_function)
+    def __init__(self, base_function, spike_function):
+        print("hello")
+        
     
     
 
