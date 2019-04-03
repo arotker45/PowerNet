@@ -1,6 +1,8 @@
 # PowerNet
 A simulation of a large, dispersed electric grid powered by nuclear reactors.
 
+![](thumbnail_diagram.jpg)
+
 Consists of...
   * Point Reactor
   * Power Load
