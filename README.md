@@ -9,7 +9,7 @@ Consists of...
   * Fuel Reprocessing 
   * Fuel Depot Facilities 
 
-Linked together as Cortix modules.
+Linked together as [Cortix](https://cortix.org) modules.
 
 Reactors provide power to loads and spent fuel to reprocessing facilities; the reprocessing facilities provide reprocessed fuel to depots which provide fresh and reprocessed fuels to point reactors.
 
